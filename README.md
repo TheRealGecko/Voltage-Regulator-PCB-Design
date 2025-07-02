@@ -1,6 +1,6 @@
 # Voltage-Regulator-PCB-Design
 
-I designed a custom low-dropout voltage regulator PCB for the WARG design team onboarding challenge in Altium Designer. Below are the schematic and layout of my design.
+I designed a custom low-dropout voltage regulator PCB in Altium Designer for the WARG design team onboarding challenge. Below are the schematic and layout of my design.
 
 ![Schematic](https://github.com/user-attachments/assets/fbd12106-a57c-4ede-b806-5d10ddd7fc45)
 
